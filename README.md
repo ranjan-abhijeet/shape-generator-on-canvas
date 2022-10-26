@@ -1,2 +1,4 @@
-# shape-generator-on-canvas
-Creates shapes on canvas
+**Creates shapes on canvas using skimage library**
+
+
+
